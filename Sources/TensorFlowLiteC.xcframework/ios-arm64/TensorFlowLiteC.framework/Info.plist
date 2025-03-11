@@ -4,6 +4,8 @@
 <dict>
     <key>CFBundleIdentifier</key>
     <string>org.tensorflow.lite.c</string>
+    <key>CFBundleExecutable</key>
+    <string>TensorFlowLiteC</string>
     <key>CFBundleName</key>
     <string>TensorFlowLiteC</string>
     <key>CFBundleVersion</key>
